@@ -1,0 +1,22 @@
+title: Chords
+@extends:
+    type: article
+    context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      fields:
+        header.chords:
+          type: tab
+          title: ✴ Chords
+          icon: folder
+          text: Enter details for this Chords
+
+          fields:
+
+            .notes:
+              type: textarea
+              label: Notes
+              help: Notes about this Chords
+              size: medium
