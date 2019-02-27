@@ -19,31 +19,33 @@ taxonomy:
 
 ```
 
-G   E                                 E7
-              Up the lazy river by the old mill run
+G   E
 
-                  A                      A7
-              The lazy lazy river in the noon-day sun
+                  E7
+Up the lazy river by the old mill run
 
-               D                       D7
-              Layin' in the shade of a kind old tree
+    A                      A7
+The lazy lazy river in the noon-day sun
 
-                G              G                            G7
-              Throw away your troubles, dream a dream with me
+ D                       D7
+Layin' in the shade of a kind old tree
 
-              E                           E7
-              Up the lazy river where the robin's song
+  G              G                            G7
+Throw away your troubles, dream a dream with me
 
-               A                             A7
-              Awaits a bright new mornin' as we just roll along
+E                           E7
+Up the lazy river where the robin's song
 
-               C              C7     G            E
-              Blue skies up above, every one's in love
+ A                             A7
+Awaits a bright new mornin' as we just roll along
 
-              A           D          G              E
-              Up the lazy river, how happy we would be
+ C              C7     G            E
+Blue skies up above, every one's in love
 
-              A           D          G
-              Up the lazy river with me
+A           D          G              E
+Up the lazy river, how happy we would be
+
+A           D          G
+Up the lazy river with me
 
 ```
