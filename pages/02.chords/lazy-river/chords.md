@@ -17,9 +17,9 @@ taxonomy:
 
 ===
 
-```
+```text
 
-G   E
+ G   E
 
                   E7
 Up the lazy river by the old mill run
@@ -27,7 +27,7 @@ Up the lazy river by the old mill run
     A                      A7
 The lazy lazy river in the noon-day sun
 
- D                       D7
+  D                      D7
 Layin' in the shade of a kind old tree
 
   G              G                            G7

@@ -7,14 +7,15 @@ content:
     pagination: true
     limit: 10
 child_type: article
-figure:
-    image: phi-logo-dark.png
-    title: 'phi logo'
-    alt: 'phi symbol with geometric construction'
-    caption: PHI
+taxonomy:
+    tag:
+        - showcase
 ---
 
-- Everything about us
+- this collection of music was brought to you by the
+- **photon** PLATFORM
+- it is intended for jammin'
+- and movin'
 
 ===
 
