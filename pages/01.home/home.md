@@ -1,17 +1,16 @@
 ---
-title: Welcome
-subtitle: 'photon ✴ Starter Site'
+title: MUSIC
+subtitle: 'chord sheets and more'
 author: /home
 content:
-    items: '@root.children'
+    items: '@root.descendants'
+    order:
+      by: modified
+      dir: desc
 child_type: article
 menu: Home
 ---
 
-- This is a starter skeleton for the<br>photon ✴ PLATFORM
-
+- bring more positive vibration into the world
 
 ===
-
-You can find instructions for setup up this site on the github repo:
-https://github.com/photon-platform/photon

@@ -9,7 +9,7 @@ content:
 child_type: article
 taxonomy:
     tag:
-        - showcase
+        # - showcase
 ---
 
 - this collection of music was brought to you by the
