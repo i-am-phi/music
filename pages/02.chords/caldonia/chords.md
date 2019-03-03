@@ -20,22 +20,34 @@ Walkin' with my baby she's got great big feet
 She's long, lean, and lanky and ain't had nothing to eat
              F                            C
 But she's my baby and I love her just the same
-Crazy 'Gbout that woman 'cause Caldonia is her Cname
+       G                                      C
+Crazy 'bout that woman 'cause Caldonia is her name
 
-Caldonia,C Caldonia - What makes your big head so hard?
-I Flove her, I love her just the Csame
-Crazy 'Gbout that woman 'cause Caldonia is her Cname
+         C
+Caldonia, Caldonia - What makes your big head so hard?
+  F                             C
+I love her, I love her just the same
+       G                                      C
+Crazy 'bout that woman 'cause Caldonia is her name
 
 C    F    C    G    C
-CNow, my mamma told me to leave Caldonia alone
-Said she was Fbad for my moral
-But mama didn't know what Caldonia was puttin' Cdown
+C
+Now, my mamma told me to leave Caldonia alone
+             F
+Said she was bad for my moral
+                                               C
+But mama didn't know what Caldonia was puttin' down
 And that she was such a nice gal
-So, I'm Ggoing down to Caldonia's house
-And ask her just Cone more time
+        G
+So, I'm going down to Caldonia's house
+                 C
+And ask her just one more time
 
-Caldonia,C Caldonia - What makes your big head so hard?
-I Flove her, I love her just the Csame
-Crazy 'Gbout that woman 'cause Caldonia is her Cname
+C
+Caldonia, Caldonia - What makes your big head so hard?
+F                             C
+I love her, I love her just the same
+G                                      C
+Crazy 'bout that woman 'cause Caldonia is her name
 
 ```
