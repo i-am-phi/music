@@ -1,18 +1,16 @@
 ---
 title: 'Early in the Morning'
+subtitle: B.B King
 author: /home
 content:
     items: '@self.children'
 child_type: article
 ---
 
-- B.B King
 
 ===
 
 ```text
-
-EARLY IN THE MORNING – B B King
 
 
 E
@@ -28,7 +26,7 @@ It's early in the morning
             A                   E
 And I ain't got nothin' but the blues
 
-
+---
 
 I went to all the places where we used to go
 
@@ -37,12 +35,12 @@ I went to her house but she don't live there no more
 And it's early in the morning
 
 It's early in the mornin
- 
+
 It's early in the morning
 
 And I ain't got nothin' but the blues
 
-
+---
 
 I went to her girlfriend's house, but she was out
 
@@ -57,7 +55,7 @@ It's early in the morning
 And I ain't got nothin' but the blues
 
 
-(Break)
+[BREAK]
 
 
 Went to Jenny Lou's to get something to eat
@@ -90,4 +88,4 @@ And I ain't got nothin' but the blues
 
 It's early in the morning
 
-I ain't got nothin' but the blues 
+I ain't got nothin' but the blues

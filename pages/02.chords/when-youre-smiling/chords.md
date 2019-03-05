@@ -1,5 +1,6 @@
 ---
 title: 'When You''re Smiling'
+subtitle: Joe Goodwin, Larry Shay, Mark Fisher
 author: /home
 content:
     items: '@self.children'
@@ -8,15 +9,11 @@ figure:
     youtube: YXYRkp2HZto
 ---
 
-- Louis Armstrong
-- Louis Prima
 
 ===
 
 ```text
 
-When You're Smiling
-written by Joe Goodwin, Larry Shay, Mark Fisher
 
 G                                Gmaj7
 When you're smiling when you're smiling
@@ -27,7 +24,8 @@ When you're laughing oh when you're laughing
     D7                G
 The sun comes shining through
 
- 
+---
+
                 G7          C
 But when you're crying you bring on the rain
              A7         D7

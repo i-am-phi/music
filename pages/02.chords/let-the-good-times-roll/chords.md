@@ -1,5 +1,6 @@
 ---
 title: 'Let the Good Times Roll'
+subtitle: Ray Charles
 author: /home
 content:
     items: '@self.children'
@@ -8,7 +9,6 @@ figure:
     youtube: Lk4iOmb-osk
 ---
 
-- Ray Charles
 
 ===
 

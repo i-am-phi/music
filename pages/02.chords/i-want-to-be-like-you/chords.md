@@ -1,12 +1,12 @@
 ---
 title: 'I Want To Be Like You '
+subtitle:  Louis Prima
 author: /home
 content:
     items: '@self.children'
 child_type: article
 ---
 
-- Louis Prima
 
 ===
 
@@ -29,6 +29,7 @@ I wanna be a man, mancub, and stroll right into town
 And be just like the other men, I'm tired of monkeyin' around, oh
 
 [Chorus]
+
 C                           A7
 Oo-bee-doo, I wanna be like yoo-ooo-oou
         D7              G7            C
@@ -38,7 +39,7 @@ You'll see it's true-ooo-ooo, an ape like me-ee-ee
     D7          G7             C
 Can learn to be hu-ooo-ooo-man too-ooo-ooo
 
-[Link]
+[BREAK]
 C  A7  D7  G7  C E7
 
 [Verse]
@@ -68,3 +69,6 @@ Can learn to be like someone like you/me
 One more time!
     D7          G7                C     G7  C
 Can learn to be like someone like you
+
+
+```

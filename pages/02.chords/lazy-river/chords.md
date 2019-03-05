@@ -1,5 +1,6 @@
 ---
 title: 'Lazy River'
+subtitle: Hoagy Carmichael
 author: /home
 content:
     items: '@self.children'
@@ -13,7 +14,6 @@ taxonomy:
         - 'New Orleans'
 ---
 
-- Louis Prima
 
 ===
 
@@ -29,6 +29,9 @@ The lazy lazy river in the noon-day sun
 Layin' in the shade of a kind old tree
   G              G                            G7
 Throw away your troubles, dream a dream with me
+
+---
+
 E                           E7
 Up the lazy river where the robin's song
  A                             A7

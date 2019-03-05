@@ -23,7 +23,7 @@ body > .asides { --color-bg: none; --color-fg: white; }
 body > main { display: block; }
 body > main > article > figure { height: auto; max-height: none; }
 
-@media print { @page { margin: 1em; size: 8.5in 11in; }
+@media print { @page { margin: 2em; size: 8.5in 11in; }
   html { font-size: 12pt; display: block; background: transparent; }
   body { background: transparent; grid-template-columns: 1fr; display: block; }
   body > header { width: 100%; flex-direction: row; align-content: center; display: none; }

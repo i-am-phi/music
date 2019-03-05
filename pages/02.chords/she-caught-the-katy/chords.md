@@ -1,12 +1,12 @@
 ---
 title: 'She Caught the Katy'
+subtitle: Taj Mahal
 author: /home
 content:
     items: '@self.children'
 child_type: article
 ---
 
-- Blues Brothers
 
 ===
 

@@ -1,5 +1,6 @@
 ---
 title: 'I Got a Woman'
+subtitle: Ray Charles
 author: /home
 content:
     items: '@self.children'
@@ -8,14 +9,12 @@ figure:
     youtube: CnI_LuCJ4Ek
 ---
 
-- Ray Charles
 
 ===
 
 ```text
 
 [Verse 1]
-
 
 A                             E
 Well, I got a woman, way over town,

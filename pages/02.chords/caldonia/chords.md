@@ -1,5 +1,6 @@
 ---
 title: Caldonia
+subtitle: Louis Jordan
 author: /home
 content:
     items: '@self.children'
@@ -8,7 +9,6 @@ figure:
     youtube: PR6pHtiNT_k
 ---
 
-- Louis Jordan
 
 ===
 
@@ -25,19 +25,22 @@ But she's my baby and I love her just the same
        G                                      C
 Crazy 'bout that woman 'cause Caldonia is her name
 
-         C
+
+         C        C
 Caldonia, Caldonia - What makes your big head so hard?
   F                             C
 I love her, I love her just the same
        G                                      C
 Crazy 'bout that woman 'cause Caldonia is her name
 
+---
+
 C    F    C    G    C
 C
 Now, my mamma told me to leave Caldonia alone
-             F
+
 Said she was bad for my moral
-                                               C
+      F                                         C
 But mama didn't know what Caldonia was puttin' down
 And that she was such a nice gal
         G
@@ -45,7 +48,7 @@ So, I'm going down to Caldonia's house
                  C
 And ask her just one more time
 
-C
+        C         C
 Caldonia, Caldonia - What makes your big head so hard?
 F                             C
 I love her, I love her just the same
