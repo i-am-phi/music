@@ -20,5 +20,26 @@ article.excerpt .more { align-self: flex-end; }
 
 body > header { --color-bg: none; --color-fg: white; }
 body > .asides { --color-bg: none; --color-fg: white; }
+body > main { display: block; }
+body > main > article > figure { height: auto; max-height: none; }
+
+@media print { @page { margin: 1em; size: 8.5in 11in; }
+  html { font-size: 12pt; display: block; background: transparent; }
+  body { background: transparent; grid-template-columns: 1fr; display: block; }
+  body > header { width: 100%; flex-direction: row; align-content: center; display: none; }
+  body > header > h1 { font-size: 1.1em; }
+  body > header > nav { display: none; }
+  body > header img { width: 5em; }
+  body > footer, body > .asides { display: none; }
+  body article { page-break-before: always; }
+  body article > header > nav.breadcrumbs { display: none; }
+  body article > figure { display: none; }
+  body article .content { max-width: 54em; }
+  body article .content pre { background: transparent; }
+  body article .content pre code.language-text { background: transparent; color: #000; }
+  body article > footer > .article-share { display: none; }
+  body article > footer > nav.sibling { display: none; }
+  body article > nav { display: none; }
+  body section.collection { display: none; } }
 
 /*# sourceMappingURL=photon-child.css.map */

@@ -8,6 +8,8 @@ figure:
     youtube: PR6pHtiNT_k
 ---
 
+- Louis Jordan
+
 ===
 
 

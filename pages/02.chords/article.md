@@ -5,8 +5,8 @@ content:
     items: '@self.children'
 child_type: chords
 taxonomy:
-  tag:
-    - showcase
+    tag:
+        - showcase
 ---
 
 - Chord sheets borrowed from various places

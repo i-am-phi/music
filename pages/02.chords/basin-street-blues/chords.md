@@ -8,6 +8,8 @@ figure:
     youtube: H8GjJD826vc
 ---
 
+- Louis Armstrong
+
 ===
 
 ```text

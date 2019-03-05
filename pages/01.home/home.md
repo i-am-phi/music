@@ -5,8 +5,8 @@ author: /home
 content:
     items: '@root.descendants'
     order:
-      by: modified
-      dir: desc
+        by: modified
+        dir: desc
 child_type: article
 menu: Home
 ---

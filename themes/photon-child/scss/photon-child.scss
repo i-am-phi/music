@@ -28,6 +28,16 @@ body {
     // align-items: flex-start;
   }
 
+  > main {
+    display: block;
+    > article {
+      > figure {
+        height: auto;
+        max-height: none;
+      }
+    }
+  }
+
   @include media-bp(3) {
     // display: flex;
 
@@ -92,6 +102,99 @@ body.home {
 
     }
 
+  }
+
+}
+
+
+@media print {
+
+  @page {
+    margin: 1em;
+    size: 8.5in 11in;
+  }
+  html {
+    font-size: 12pt;
+    // width: 8.5in;
+    display: block;
+    background: transparent;
+  }
+
+  body {
+    background: transparent;
+
+    // width: 8.5in;
+//     height: 11in;
+
+    grid-template-columns: 1fr;
+    display: block;
+
+    > header {
+      width: 100%;
+      flex-direction: row;
+      // justify-content: center;
+      align-content: center;
+
+      display: none;
+
+      > h1 {
+        font-size: 1.1em;
+      }
+      > nav {
+        display: none;
+      }
+
+      img {
+        width: 5em;
+      }
+    }
+    > footer,
+    > .asides {
+      display: none;
+  	}
+
+    article {
+      page-break-before: always;
+
+      > header {
+        > nav.breadcrumbs {
+          display: none;
+        }
+      }
+
+      > figure {
+        display: none;
+      }
+
+      .content {
+        max-width: 54em;
+        pre {
+          background: transparent;
+
+          code.language-text {
+            background: transparent;
+            color: #000;
+          }
+        }
+      }
+
+      > footer {
+        > .article-share {
+          display: none;
+        }
+        > nav.sibling {
+          display: none;
+        }
+      }
+
+      > nav {
+        display: none;
+      }
+    }
+
+    section.collection {
+      display: none;
+    }
   }
 
 }

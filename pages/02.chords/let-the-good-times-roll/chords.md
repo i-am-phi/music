@@ -8,7 +8,7 @@ figure:
     youtube: Lk4iOmb-osk
 ---
 
-Ray Charles
+- Ray Charles
 
 ===
 

@@ -8,7 +8,7 @@ figure:
     youtube: q4V8pbg3rNU
 ---
 
-Louis Prima
+- Louis Prima
 
 ===
 

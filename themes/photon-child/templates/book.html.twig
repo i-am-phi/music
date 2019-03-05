@@ -1,0 +1,28 @@
+{% extends 'default.html.twig' %}
+{% set type = "book" %}
+{% set types = "books" %}
+{% block template %}
+{{ parent() }}
+<!-- user/themes/photon/templates/book.html.twig -->
+{% endblock template %}
+
+{% block body_template_classes %}{{ parent() }} {{ type }}{% endblock body_template_classes %}
+
+{% block main %}
+  <main data-collection="{{ page.collection.count }}">
+    {% block content %}
+      {% include ["_articles/#{ page.template }.html.twig", "_articles/article.html.twig"] with { 'article': page } %}
+      {% block collection %}
+
+        {% for article in page.collection %}
+          {# % if not (article.url == page.url) and article.routable == true and article.visible == true % #}
+            {% include ["_articles/#{ article.template }.html.twig", "_articles/article.html.twig"] with { 'article': article } %}
+          {# % endif % #}
+        {% endfor %}
+
+        {% include '_sections/pagination.html.twig'  %}
+
+      {% endblock collection %}
+    {% endblock content %}
+</main>
+{% endblock main %}
