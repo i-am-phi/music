@@ -53,14 +53,5 @@ I want to be, in that number.
          C         G7       C
 When the saints go marching in.
 
----
-
-Oh when the saints,  go marching in.
-                            G7
-When the saints go marching in.
-        C                  F
-I still want to be, in that number.
-         C     G7      C
-When the sun refuse to shine.
 
 ```

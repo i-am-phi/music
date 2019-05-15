@@ -12,7 +12,6 @@ child_type: article
 
 ```text
 
-
 E
 It's early in the morning and I can't get right
                                                E7
@@ -70,7 +69,7 @@ It's early in the morning
 
 And I ain't got nothin' but the blues
 
-
+---
 
 Had a lot of money when I first started out
 
@@ -84,7 +83,7 @@ It's early in the morning
 
 And I ain't got nothin' but the blues
 
-
+---
 
 It's early in the morning
 

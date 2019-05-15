@@ -12,14 +12,10 @@ child_type: article
 
 ```text
 
-MINNIE THE MOOCHER
-
-[Intro]
 
 (Strong blues feel, 95bpm)
 |Em   B7  |Em       |Em   B7  |Em       |Em   B7  |Em       |
 |C7       |Em/B B7/F# Em |Em       |Em       |Em       |C7   B7   |
-
 
 [Verse 1]
 
@@ -32,18 +28,13 @@ Em
     C7                    B7       Em
 But Minnie had a heart as big as a whale.
 
-
 [Chorus]
 
       Em
 Hi-de-hi-de-hi-di-hi! (Hi-de-hi-de-hi-di-hi!)
-      Em
 Ho-de-ho-de-ho-de-ho! (Ho-de-ho-de-ho-de-ho!)
-      Em
 He-de-he-de-he-de-he! (He-de-he-de-he-de-he!)
-      Em
 Hi-de-hi-de-hi-de-ho! (Hi-de-hi-de-hi-de-ho!)
-
 
 [Verse 2]
 
@@ -61,13 +52,9 @@ And he showed her how to kick the gong around.
 
       Em
 Hi-de-hi-de-hi-di-hi! (Hi-de-hi-de-hi-di-hi!)
-      Em
       Whoooooaaaaah!  (Whoooooaaaaah!)
-      Em
 He-de-he-de-he-de-he! (He-de-he-de-he-de-he!)
-      Em
 Hi-de-hi-de-hi-de-ho! (Hi-de-hi-de-hi-de-ho!)
-
 
 
 [Verse 3]
@@ -87,12 +74,9 @@ A diamond car with a platinum wheel.
 
 Em
 Hi-de-hi-de-hi-de-hi-de-hi-de-hi-de-hi! (Hi-de-hi-de-hi-de-hi-de-hi-de-hi-de-hi!)
-Em
 Ho-de-ho-de-ho-de-ho-de-ho-de-ho-de-ho! (Ho-de-ho-de-ho-de-ho-de-ho-de-ho-de-hi!)
-Em
 (Scat + Repeat)
 (A tempo)
-Em
 (Scat + Repeat)
 
 
@@ -112,11 +96,8 @@ She sat around and counted them all a million times.
 
       Em
 Hi-de-hi-de-hi-di-hi! (Hi-de-hi-de-hi-di-hi!)
-      Em
 Ho-de-ho-de-ho-de-ho! (Ho-de-ho-de-ho-de-ho!)
-      Em
 He-de-he-de-he-de-he! (He-de-he-de-he-de-he!)
-      Em
 Hi-de-hi-de-hi-de-ho! (Hi-de-hi-de-hi-de-ho!)
 
 
