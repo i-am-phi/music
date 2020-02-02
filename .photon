@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
 
-# photon ✴
-# v0.1.2
-
-
 export PROJECT=music
 export LOCAL="http://$PROJECT.local"
 export SERVER="https://$PROJECT.photon-platform.net"
@@ -13,11 +9,7 @@ export THEMES_DIR="$PROJECT_DIR/user/themes"
 export PLUGINS_DIR="$PROJECT_DIR/user/plugins"
 export PORT="1111"
 
-source ~/.bash_profile
-source ~/.photon/.sync
-source ~/.photon/.photon
-
-alias swatch="scss --watch -t compact  \
+alias swatch="sass --watch \
   $THEMES_DIR/photon/scss:$THEMES_DIR/photon/css \
   $THEMES_DIR/photon-child/scss:$THEMES_DIR/photon-child/css \
   $PLUGINS_DIR/photon-chords/scss:$PLUGINS_DIR/photon-chords/assets \
