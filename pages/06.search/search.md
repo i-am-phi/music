@@ -1,8 +1,9 @@
 ---
 title: Search
 subtitle: 'Full site search'
-author: /home
-child_type: article
+taxonomy:
+    photon:
+        - header
 ---
 
 - Find what you are looking for

@@ -1,11 +1,10 @@
 ---
 title: Chords
-author: /home
 content:
     items: '@self.children'
-child_type: chords
 taxonomy:
-    tag:
+    photon:
+        - header
         - showcase
 ---
 
