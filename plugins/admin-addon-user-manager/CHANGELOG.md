@@ -1,3 +1,50 @@
+# v2.3.0
+## 05/04/2020
+
+1. [](#new)
+    * Chinese translation (Thanks: https://github.com/dallaslu PR #68)
+
+2. [](#improved)
+    * Replace deprecated User::load (#66)
+    * Updated dependencies
+    * Better compatibility with v1.7
+
+# v2.2.1
+## 12/11/2019
+
+1. [](#bugfix)
+    * Fix YAML linting error (#63)
+
+# v2.2.0
+## 10/11/2019
+
+1. [](#new)
+    * Brazilian Portuguese translation (Thanks: https://github.com/diegomagikal PR #61)
+    * Added "Enabled" toggle to user editor
+
+2. [](#bugfix)
+    * Fixed avatar upload
+
+# v2.1.8
+## 28/05/2019
+
+1. [](#new)
+    * French translation (Thanks: https://github.com/Miaourt PR #58)
+
+2. [](#bugfix)
+    * Fixed a problem with saving groups (#59)
+
+# v2.1.7
+##  13/02/2019
+
+1. [](#new)
+    * Serbian translation (Thanks: https://github.com/tomaja-linuxo PR #47)
+    * Russian translation (Thanks: https://github.com/Lufog-git PR #50)
+    * Ukrainian translation (Thanks: https://github.com/Lufog-git PR #51)
+
+2. [](#improved)
+    * Fixed some non-translatable strings (Thanks: https://github.com/Lufog-git PR #52)
+
 # v2.1.6
 ##  06/06/2018
 
