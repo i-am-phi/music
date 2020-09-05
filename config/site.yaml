@@ -1,4 +1,4 @@
-title: MUSIC
+title: photon MUSIC
 default_lang: en
 author:
   name: phi
@@ -8,7 +8,7 @@ taxonomies:
   - tag
   - photon
 metadata:
-  description: 'My Grav Site'
+  description: 'chords sheets for songs'
 summary:
   enabled: true
   format: short
