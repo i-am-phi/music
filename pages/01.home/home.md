@@ -1,14 +1,14 @@
 ---
-title: MUSIC
+title: photon MUSIC
 subtitle: 'chord sheets and more'
-author: /home
-content:
-    items: '@root.descendants'
-    order:
-        by: modified
-        dir: desc
-child_type: article
 menu: Home
+content:
+    title: 'Top Sections'
+    items: 
+        '@taxonomy.photon': header
+    order:
+        by: default
+        dir: asc
 ---
 
 - bring more positive vibration into the world
