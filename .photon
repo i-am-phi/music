@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+export PROJECT="music.illumiphi.com"
+export LOCAL="http://$PROJECT.local"
+export SERVER="https://$PROJECT"
+export SERVER_DIR="~/SITES/$PROJECT"
+export PROJECT_DIR="~/SITES/$PROJECT"
+export THEMES_DIR="$PROJECT_DIR/user/themes"
+export PLUGINS_DIR="$PROJECT_DIR/user/plugins"

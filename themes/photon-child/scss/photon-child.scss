@@ -1,0 +1,200 @@
+/* photon ✴ Theme Components and Templates */
+@import '../../photon/scss/_media/var-18em';
+@import '../../photon/scss/_media/functions';
+@import '../../photon/scss/_media/mixins';
+
+@import 'articles/article';
+@import 'articles/article-excerpt';
+@import 'articles/article-showcase';
+
+
+
+body {
+  // --bg: #FFF;
+
+  > header {
+     // flex-direction: row;
+     --color-bg: none;
+     --color-fg: white;
+
+  }
+
+  > .asides {
+    --color-bg: none;
+    --color-fg: white;
+
+    // flex-direction: row;
+    // justify-content: space-around;
+    // align-items: flex-start;
+  }
+
+  > main {
+    display: block;
+    > article {
+      > figure {
+        height: auto;
+        max-height: none;
+      }
+    }
+  }
+
+  @include media-bp(3) {
+    // display: flex;
+
+    > header {
+      // flex-direction: row;
+      // height: var(--header-height);
+
+      > .logo {
+        img {
+          // height:4em;
+        }
+      }
+      > nav {
+
+        // padding: 1em 0;
+
+        // flex-flow: row wrap;
+        // justify-content: center;
+
+        a {
+          // flex-flow: row;
+
+          // text-align: center;
+        }
+
+      }
+    }
+  }
+
+}
+
+body.home {
+
+  @include media-bp(3) {
+    // display: flex;
+
+    > header {
+      // flex-direction: row;
+
+      > .logo {
+        img {
+          // height:8em;
+        }
+      }
+      > nav {
+
+        // padding: 1em 0;
+
+        // flex-flow: row wrap;
+        // justify-content: center;
+
+        a {
+          // flex-flow: row;
+          // text-align: center;
+        }
+
+      }
+    }
+
+    > .showcase {
+      // height: calc(100vh - var(--header-height) - (var(--fitz-2) * 3));
+
+    }
+
+  }
+
+}
+
+
+@media print {
+
+  @page {
+    margin: 2em;
+    size: 8.5in 11in;
+  }
+  html {
+    font-size: 12pt;
+    // width: 8.5in;
+    display: block;
+    background: transparent;
+  }
+
+  body {
+    background: transparent;
+
+    // width: 8.5in;
+//     height: 11in;
+
+    grid-template-columns: 1fr;
+    display: block;
+
+    > header {
+      width: 100%;
+      flex-direction: row;
+      // justify-content: center;
+      align-content: center;
+
+      display: none;
+
+      > h1 {
+        font-size: 1.1em;
+      }
+      > nav {
+        display: none;
+      }
+
+      img {
+        width: 5em;
+      }
+    }
+    > footer,
+    > .asides {
+      display: none;
+  	}
+
+    article {
+      page-break-before: always;
+
+      > header {
+        > nav.breadcrumbs {
+          display: none;
+        }
+      }
+
+      > figure {
+        display: none;
+      }
+
+      .content {
+        max-width: 54em;
+        pre {
+          background: transparent;
+
+          code.language-text {
+            background: transparent;
+            color: #000;
+          }
+        }
+      }
+
+      > footer {
+        > .article-share {
+          display: none;
+        }
+        > nav.sibling {
+          display: none;
+        }
+      }
+
+      > nav {
+        display: none;
+      }
+    }
+
+    section.collection {
+      display: none;
+    }
+  }
+
+}

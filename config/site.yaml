@@ -1,0 +1,19 @@
+title: photon MUSIC
+default_lang: en
+author:
+  name: phi
+  email: phi@illumiphi.com
+taxonomies:
+  - category
+  - tag
+  - photon
+metadata:
+  description: 'chords sheets for songs'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+logo: photon-logo.png
